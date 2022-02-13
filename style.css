@@ -2,7 +2,7 @@ body{margin:0; background:#02001c;}
 .vj{text-align:left; margin-left:-170px; margin-top:-200px;}
 .vj img{width:500px; height:550px; opacity:0; animation:vj 1s ease-in 1 forwards; animation-delay:.2s;}
 @keyframes vj{
-				100%{opacity:18%; filter:grayscale(35%);}
+				100%{opacity:30%; filter:grayscale(15%);}
 }
 @keyframes h1{
 				0%{letter-spacing:4px;}
@@ -10,4 +10,4 @@ body{margin:0; background:#02001c;}
 }
 img{width:100%; position:absolute;}
 .logo{text-align:left;}
-h1{font-size:40px; text-align:center; font-family:'Josefin Sans'; color:#0081ff;animation:h1 1.5s linear 1;}
+h1{font-size:40px; text-align:center; font-family:'Josefin Sans';animation:h1 1.5s linear 1;}
